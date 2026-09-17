@@ -1,4 +1,3 @@
-# Ecommerce-risk-and-sentiment-analysis
 # Olist E-Commerce: Business Performance & Risk Analytics
 
 ## Executive Summary
